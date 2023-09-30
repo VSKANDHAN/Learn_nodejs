@@ -1,6 +1,6 @@
 {
-  "name": "basickanaku.js",
-  "version": "1.0.0",
+  "name": "math4.js",
+  "version": "1.0.1",
   "description": "This package can be used to perform basic calculations using js",
   "main": "calculation.js",
   "scripts": {
