@@ -1,0 +1,11 @@
+{
+  "name": "basickanaku.js",
+  "version": "1.0.0",
+  "description": "This package can be used to perform basic calculations using js",
+  "main": "calculation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vskandhan",
+  "license": "ISC"
+}
